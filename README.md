@@ -55,4 +55,4 @@ However, the most results for other schools did not occur a changes, only the ra
 
 In this project, **loc** function was used for removing the scores for the 9th grade students in Thomas High school.  **Data frames** was issued for visualizations. Mathemetic functions was used to culculate the **average**, **percentage and etc.**.  Data **formart** was aproved on the final results for deliver the results more efficient.
 
-More datails refers to PyCitySchools_Challenge.ipynb
+More datails refers to PyCitySchools_Challenge.ipynb 
