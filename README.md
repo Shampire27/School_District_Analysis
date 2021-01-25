@@ -19,11 +19,11 @@ Total average scores and passing rate was deducted, but the difference was littl
 
 Before:
 
-![1](Resources/1.pgn)
+![1](Resources/1.png)
 
 After:
 
-![1_NaN](Resources/1_NaN.pgn)
+![1_NaN](Resources/1_NaN.png)
 
 
 - **How is the school summary affected?**
