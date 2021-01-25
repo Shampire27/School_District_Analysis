@@ -48,7 +48,8 @@ Before Adjusting, Thomas High School performes good (as the 2nd in ranking), aft
   Becasued the school size was not changed, but the number of students with valid score decrease. As a result, after the adjustment, average score and overall pasing rate decreased while total countable score deducted.
   
   * **Scores by school type:** 
-Because of the deduction on average scoure and pasing rate, the total rates based on school types, which Thomas High School belongs to, also deducted for the same reasons for the school type .
+Because of the deduction on average scoure and pasing rate, the total rates based on school types, which Thomas High School belongs to, also deducted for the same reasons for the school type. However, the difference is not significant based on the large volume of data source.
+
 Before:
 
 ![7](Resources/7.png)
