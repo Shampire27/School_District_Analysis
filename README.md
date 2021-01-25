@@ -32,7 +32,7 @@ Passing Rate Before: 91%
 Passing Rate After: 65%
 
 - **How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?**
-Before Adjusting, Thomas High School performes good (as the 2nd in ranking), after adjusting, the Thomas drop to the 8th in ranking system.
+Before Adjusting, Thomas High School performes good (as the 2nd in ranking), after adjusting, the Thomas drop to the 13th in ranking system.
 
 - **How does replacing the ninth-grade scores affect the following:**
 
@@ -47,8 +47,12 @@ Before Adjusting, Thomas High School performes good (as the 2nd in ranking), aft
 
 ## Summary: 
 The 4 main changes after replace with NaNs is the decreasing value in average scores and passing percentage for Thomas High School:
-  1. Change on Average Math Score
-  2. Change on Average Reading Score
-  3. Change on Math Passing Rate
-  4. Change on Reading Passing Rate
-However, the overall results did not occur a significant influence.
+  1. Change on student with valid Score (461 students deducted in total number)
+  2. Change on Average Score bacauses of the duction on total counted score
+  3. Change on passing rate because of the adjust on score (all 9th grade student was regared to "fail" due to the score adjusted to NaN
+  4. Change on ranking result for Thomas high school because of the changes above
+However, the most results for other schools did not occur a changes, only the ranking was influenced for the other schools.
+
+In this project, **loc** function was used for removing the scores for the 9th grade students in Thomas High school.  **Data frames** was issued for visualizations. Mathemetic functions was used to culculate the **average**, **percentage and etc.**.  Data **formart** was aproved on the final results for deliver the results more efficient.
+
+More datails refers to PyCitySchools_Challenge.ipynb
