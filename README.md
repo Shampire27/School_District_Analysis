@@ -38,14 +38,15 @@ Before Adjusting, Thomas High School performes good (as the 2nd in ranking), aft
 
 - **How does replacing the ninth-grade scores affect the following:**
 
-  * Math and reading scores by grade
+  * **Math and reading scores by grade:** 
   Only the scores of 9th grade was influnced (deducted to 0), the other grades' scores remains the same. 461 students (in 9th grade) have no score counted.
   
-  * Scores by school spending
+  * **Scores by school spending:** 
   School spending do not influence the score. There is no change on school spending, but the score changed becaused of the replacement.
   
-  * Scores by school size
-  * Scores by school type
+  * **Scores by school size:** 
+  
+  * **Scores by school type:** 
 
 ## Summary: 
 
