@@ -27,11 +27,13 @@ After:
 
 
 - **How is the school summary affected?**
+
 For Thomas High School, average score and passing percentage was significantly deducted.
 Passing Rate Before: 91%
 Passing Rate After: 65%
 
 - **How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?**
+
 Before Adjusting, Thomas High School performes good (as the 2nd in ranking), after adjusting, the Thomas drop to the 13th in ranking system.
 
 - **How does replacing the ninth-grade scores affect the following:**
@@ -46,6 +48,7 @@ Before Adjusting, Thomas High School performes good (as the 2nd in ranking), aft
   * Scores by school type
 
 ## Summary: 
+
 The 4 main changes after replace with NaNs is the decreasing value in average scores and passing percentage for Thomas High School:
   1. Change on student with valid Score (461 students deducted in total number)
   2. Change on Average Score bacauses of the duction on total counted score
