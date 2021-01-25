@@ -36,6 +36,14 @@ Passing Rate After: 65%
 
 Before Adjusting, Thomas High School performes good (as the 2nd in ranking), after adjusting, the Thomas drop to the 13th in ranking system.
 
+Before
+
+![2b](Resources/2b.png)
+
+After:
+
+![3t](Resources/3t.png)
+
 - **How does replacing the ninth-grade scores affect the following:**
 
   * **Math and reading scores by grade:** 
