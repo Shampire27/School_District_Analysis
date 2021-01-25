@@ -42,11 +42,13 @@ Before Adjusting, Thomas High School performes good (as the 2nd in ranking), aft
   Only the scores of 9th grade was influnced (deducted to 0), the other grades' scores remains the same. 461 students (in 9th grade) have no score counted.
   
   * **Scores by school spending:** 
-  School spending do not influence the score. There is no change on school spending, but the score changed becaused of the replacement.
+  School spending do not influence the score, but the score decreased influed the rate on return of spendind.  After the score adjust (decrease), the payers spend more money on each higher score point, which means the efficiency of invest on study in Thomas High school decreased. 
   
   * **Scores by school size:** 
+  Becasued the school size was not changed, but the number of students with valid score decrease. As a result, after the adjustment, average score and overall pasing rate decreased while total countable score deducted.
   
   * **Scores by school type:** 
+Because of the deduction on average scoure and pasing rate, the total rates based on school types, which Thomas High School belongs to, also deducted for the same reasons for the school type .
 
 ## Summary: 
 
