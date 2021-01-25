@@ -38,11 +38,11 @@ Before Adjusting, Thomas High School performes good (as the 2nd in ranking), aft
 
 Before
 
-![2b](Resources/2b.png)
+![3t](Resources/3t.png)
 
 After:
 
-![3t](Resources/3t.png)
+![2b](Resources/2b.png)
 
 - **How does replacing the ninth-grade scores affect the following:**
 
