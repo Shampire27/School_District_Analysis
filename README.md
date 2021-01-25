@@ -12,6 +12,12 @@ This project was writtern for a school board who has notified by the evidence of
 The students scores lost accuracy bacause of the data missing.  The student's overall grades in Thomas High School were evaluation with bias. The standard of students' grade and teaching efficiency for Thomas High School would occur an underestimate after the score adjusted. The referance value of students' grade in district summary was reduced, while the other information (for eaxmple size and budget) remains the same.
 ![Thomas 9th grade scores adjusted to "NaN']((Resources/thomas_9th_NaN.png)
 
+Total average scores and passing rate was deducted, but the difference was little which coould be ignored.
+Before:
+![1](Resources/1.pgn)
+After:
+![1_NaN](Resources/1_NaN.pgn)
+
 - How is the school summary affected?
 For Thomas High School, the results of other grades (exceot 9th grade) remains the same. However, the overall 
 
