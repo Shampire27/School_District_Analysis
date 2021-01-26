@@ -1,11 +1,13 @@
 # School_District_Analysis
-This project was writtern with Anaconda and Jupyter Notebook under PythonData environment.  Pandas, numpy and csv file was imported for compliting this project.
+This project was writtern with Anaconda and Jupyter Notebook under PythonData environment.  Pandas, numpy libraries and csv file was imported for compliting this project.
 
 
 ## Overview of the school district analysis: Explain the purpose of this analysis.
 This project was writtern for a school board who has notified by the evidence of academic dishonesty.  The evidence points to the risk that the students' reading and math grades of ninth grade students was changed in Thomas High School.  For this reason, two actions was taken to deduct the facts of data change on overall analysis:
   1. Reading and Math scores for ninth-grade Thomas High School students was adjusted
   2. School district analysis was repeated.
+
+In this analysis, Jupyter Notebook was used for data outputs. New outputs are compared with the older version to determine the influnces of score change on 9th grade students from Thomas High School.
 
 
 ## Results: Using bulleted lists and images of DataFrames as support, address the following questions.
