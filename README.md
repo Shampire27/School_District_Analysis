@@ -2,7 +2,8 @@
 This project was writtern with Anaconda and Jupyter Notebook under PythonData environment.  Pandas, numpy libraries and csv file was imported for compliting this project.
 
 
-## Overview of the school district analysis: Explain the purpose of this analysis.
+## Overview of the school district analysis
+
 This project was writtern for a school board who has notified by the evidence of academic dishonesty.  The evidence points to the risk that the students' reading and math grades of ninth grade students was changed in Thomas High School.  For this reason, two actions was taken to deduct the facts of data change on overall analysis:
   1. Reading and Math scores for ninth-grade Thomas High School students was adjusted
   2. School district analysis was repeated.
@@ -10,7 +11,7 @@ This project was writtern for a school board who has notified by the evidence of
 In this analysis, Jupyter Notebook was used for data outputs. New outputs are compared with the older version to determine the influnces of score change on 9th grade students from Thomas High School.
 
 
-## Results: Using bulleted lists and images of DataFrames as support, address the following questions.
+## Results
 
 - **How is the district summary affected?**
 The students scores lost accuracy bacause of the data missing.  The student's overall grades in Thomas High School were evaluation with bias. The standard of students' grade and teaching efficiency for Thomas High School would occur an underestimate after the score adjusted. The referance value of students' grade in district summary was reduced, while the other information (for eaxmple size and budget) remains the same.
@@ -69,7 +70,8 @@ After:
 
 ![7_NaN](Resources/7_NaN.png)
 
-## Summary: 
+
+## Summary 
 
 The 4 main changes after replace with NaNs is the decreasing value in average scores and passing percentage for Thomas High School:
   1. Change on student with valid Score (461 students deducted in total number)
