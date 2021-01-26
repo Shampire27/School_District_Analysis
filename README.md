@@ -15,7 +15,7 @@ In this analysis, Jupyter Notebook was used for data outputs. New outputs are co
 - **How is the district summary affected?**
 The students scores lost accuracy bacause of the data missing.  The student's overall grades in Thomas High School were evaluation with bias. The standard of students' grade and teaching efficiency for Thomas High School would occur an underestimate after the score adjusted. The referance value of students' grade in district summary was reduced, while the other information (for eaxmple size and budget) remains the same.
 
-![Thomas 9th grade scores adjusted to "NaN']((Resources/thomas_9th_NaN.png)
+![Thomas 9th grade scores adjusted to "NaN"]((Resources/thomas_9th_NaN.png)
 
 Total average scores and passing rate was deducted, but the difference was little which coould be ignored.
 
